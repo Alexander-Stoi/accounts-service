@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Alexander-Stoi/accounts-service/issues"
   },
-  "homepage": "https://github.com/Alexander-Stoi/accounts-service#readme"
+  "homepage": "https://github.com/Alexander-Stoi/accounts-service#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
 }
