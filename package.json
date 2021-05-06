@@ -1,0 +1,19 @@
+{
+  "name": "accounts-service",
+  "version": "1.0.0",
+  "description": "- Create a backend for a Blog with Express following the MVC pattern.\r - You can either use your own FE, or use Postman, or use EJS.\r - There should be an /auth route that handles login\r - There should be a /posts routes that handles GET/POST/PUT/DELETE calls",
+  "main": "text-service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexander-Stoi/accounts-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexander-Stoi/accounts-service/issues"
+  },
+  "homepage": "https://github.com/Alexander-Stoi/accounts-service#readme"
+}
