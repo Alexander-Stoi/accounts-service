@@ -1,3 +1,10 @@
 {
-    "posts": []
+  "posts": [
+    {
+      "title": "Sport",
+      "text": "Inter",
+      "author": "Aleksandar",
+      "id": "bfcb3a78-dc07-46f6-b534-da07ee3e986a"
+    }
+  ]
 }

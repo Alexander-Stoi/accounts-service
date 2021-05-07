@@ -4,7 +4,7 @@
   "description": "- Create a backend for a Blog with Express following the MVC pattern.\r - You can either use your own FE, or use Postman, or use EJS.\r - There should be an /auth route that handles login\r - There should be a /posts routes that handles GET/POST/PUT/DELETE calls",
   "main": "text-service.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/Alexander-Stoi/accounts-service#readme",
   "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node": "^16.0.0",
     "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
   }
 }
