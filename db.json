@@ -1,10 +1,112 @@
 {
   "posts": [
     {
-      "title": "Sport",
-      "text": "Inter",
+      "title": "Title",
+      "text": "Random text",
       "author": "Aleksandar",
-      "id": "bfcb3a78-dc07-46f6-b534-da07ee3e986a"
+      "id": "7e480066-64c2-4705-8770-458019e108ed"
+    },
+    {
+      "title": "Title 1",
+      "text": "Random text 1",
+      "author": "Aleksandar 1",
+      "id": "a32bcfd3-cb6b-48f4-92e7-ac936be79df7"
+    },
+    {
+      "title": "Title 2",
+      "text": "Random text 2",
+      "author": "Aleksandar 2",
+      "id": "8f6ecc7c-05c5-42c1-aba2-1ec584e8b4e8"
+    },
+    {
+      "title": "Title 3",
+      "text": "Random text 3",
+      "author": "Aleksandar 3",
+      "id": "63846d23-8b6d-40dd-919e-141f2e979309"
+    },
+    {
+      "title": "Title 4",
+      "text": "Random text 4",
+      "author": "Aleksandar 4",
+      "id": "968e41c3-8ae4-47da-9b2d-8ae480aac159"
+    },
+    {
+      "title": "Title 5",
+      "text": "Random text 5",
+      "author": "Aleksandar 5",
+      "id": "0d74ad0f-4264-4d90-bffb-79ca40b512f4"
+    },
+    {
+      "title": "Title 6",
+      "text": "Random text 6",
+      "author": "Aleksandar 6",
+      "id": "906313b1-8ca5-453e-ae0b-15974996f8d2"
+    }
+  ],
+  "users": [
+    {
+      "id": "e3b2707e-ecd2-47cb-8e52-d79ac397209b",
+      "email": "aleks@gmail.com",
+      "password": "$2b$10$M7o72BDU57ZbRI.6cHbRQumW591xXcqLb7EWbcNfqv8qNl3hS/GaW",
+      "fullName": "elena test test test",
+      "gender": "M",
+      "role": "admin"
+    },
+    {
+      "id": "e782773f-894d-4afb-a644-632279a80229",
+      "email": "aledsaddddks@gsddeewsdsmail.com",
+      "password": "$2b$10$K7sZUDzaxLMWkJ0aIIT9But3FIcz.E8ChM0Viu.svkLb7b.2yXEDu",
+      "fullName": "elena test test test",
+      "gender": "M",
+      "role": "user"
+    },
+    {
+      "id": "011abe88-6049-4773-a21a-dfb8fc3090dd",
+      "email": "elenatest@yahoo.com",
+      "password": "$2b$10$xBGnwGcu3Q1AGw/wKAB01OC.vMuueGWIk5a/0oZac1IZMx.kVOhQu",
+      "fullName": "elena test test test",
+      "gender": "M",
+      "role": "user"
+    },
+    {
+      "id": "b6050eb4-9d63-467b-b4f1-f10df65fd735",
+      "email": "alekso@yahoo.com",
+      "password": "$2b$10$kQFGpmnYLJKcwJfkuxEY7uA4PKQ/nNhu8Uiw8JJyLn.O09E09gSLm",
+      "fullName": "elena test test test",
+      "gender": "M",
+      "role": "user"
+    },
+    {
+      "id": "7912d9e7-f273-4e9c-ac9f-0960d2cdb2b0",
+      "email": "berlin@yahoo.com",
+      "password": "$2b$10$FskgRTB5WQdBR/ipOfIgP.CbYfjba24V1j23wy/o8VAeEJ6FJKJGy",
+      "fullName": "test test test test",
+      "gender": "M",
+      "role": "user"
+    },
+    {
+      "id": "110df9b0-6689-4157-839c-d53174b54c14",
+      "email": "oslo@yahoo.com",
+      "password": "$2b$10$R7.MNqgk5V/P7GH0La7nheSXhgwcI6whF0KenGPph4/6aTLPhzN8G",
+      "fullName": "test test test test",
+      "gender": "M",
+      "role": "user"
+    },
+    {
+      "id": "bfd33856-74f5-405b-84bd-20601c45bc0e",
+      "email": "skopje@yahoo.com",
+      "password": "$2b$10$4zfPgalK9DlT.g1WB/Xt8udeV.ZFk/vTouz7dIUEtqKu55uc5VovG",
+      "fullName": "test test test test",
+      "gender": "M",
+      "role": "admin"
+    },
+    {
+      "id": "7717b099-b584-49ac-bbea-916f1b401dec",
+      "email": "bitola@yahoo.com",
+      "password": "$2b$10$a0UayvcZ4eOt4/JTM40SKe54by185U0Qp/KFLxoLe/qLQ3JUcCOVK",
+      "fullName": "test test test test",
+      "gender": "M",
+      "role": "user"
     }
   ]
 }

@@ -9,6 +9,15 @@ class PostController {
     getBlogPosts() {
         return postModel.getAllPosts();
     }
+
+    deletePost(id) {
+        return postModel.deletePostById(id);
+    }
+
+    putPost(id, body) {
+        return postModel.updatePostById(id, body);
+    }
+
 }
 
 
